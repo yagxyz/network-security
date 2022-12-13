@@ -1,0 +1,13 @@
+
+Mensagem encontrada: "Mensagem ultrassecreta."
+
+Para encontrar a chave é necessario abrir o Matlab e iniciar o Script RC4 que se encontra em esta pasta. 
+
+Depois de iniciar o programa demora aproximadamente 1 hora em encontrar e clasificar as possiveis soluções.
+Dentro destas possiveis soluções foi encontrada a chave verificando as possibilidades de uma menssagem valida (existência do ponto informado e de vogais).
+
+Surguindo duvidas contate via email: 
+yunior.alcantarag@gmail.com
+
+att
+Yunior

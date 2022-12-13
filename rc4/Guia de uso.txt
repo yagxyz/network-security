@@ -1,0 +1,4 @@
+
+1. Iniciar o Matlab
+2. Abrir o Script que esta nesta pasta
+3. Seguir as instruções do programa

@@ -1,0 +1,6 @@
+
+1. Iniciar o Matlab
+2. Abrir o Script que esta nesta pasta nome MainCode
+3. Seguir as instruções do programa
+
+O programa recebe a mensagem, gera a chave publica e privada de forma ale, toria e retorna a mensagem criptografada.
